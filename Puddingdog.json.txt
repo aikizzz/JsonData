@@ -1,7 +1,7 @@
 {
 "name": "Pom Pom Purin",
 "gender": "Male",
-"age": "5 years old",
+"age": "5",
 "breed": "Yellow dog",
 "personality": "Friendly and adorable",
 "interests": ["Sleeping", "Finding food"],
@@ -24,7 +24,7 @@
     }
   ],
 "characteristic": "Wears a large yellow hat",
-"height": "23 cm",
-"weight": "1.5 kg",
+"height": "23",
+"weight": "1.5",
 "background_story": "Pom Pom Purin is a yellow dog from the dream world who loves food and sleeping. His dream is to become a world-renowned pastry chef and embark on adventures to find delicious food. He always wears his big yellow hat and is known for being friendly, adorable, and beloved by many friends."
 }
